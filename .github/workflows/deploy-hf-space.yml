@@ -1,0 +1,67 @@
+name: Deploy to Hugging Face Space
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install huggingface_hub
+        run: pip install huggingface_hub
+
+      - name: Create Space and upload
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python << 'PY'
+          import os
+          from huggingface_hub import HfApi, upload_folder
+
+          token = os.environ["HF_TOKEN"]
+          repo_id = "monish000/dragonguide"
+          api = HfApi(token=token)
+
+          api.create_repo(
+              repo_id="dragonguide",
+              repo_type="space",
+              space_sdk="streamlit",
+              exist_ok=True,
+          )
+
+          readme = """---
+          title: DragonGuide
+          emoji: 🐉
+          colorFrom: '#07294D'
+          colorTo: '#FFC600'
+          sdk: streamlit
+          sdk_version: 1.45.1
+          app_file: main.py
+          pinned: true
+          ---
+
+          # DragonGuide — Drexel Academic AI
+
+          Set Space secret: **OPENAI_API_KEY**
+          """
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+
+          upload_folder(
+              folder_path=".",
+              repo_id=repo_id,
+              repo_type="space",
+              token=token,
+              ignore_patterns=["venv/*", ".env", "__pycache__/*", ".git/*", "deploy.zip", "*.pyc"],
+          )
+          print("Deployed to https://huggingface.co/spaces/" + repo_id)
+          PY
