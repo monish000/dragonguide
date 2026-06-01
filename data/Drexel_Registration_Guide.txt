@@ -1,0 +1,145 @@
+SOURCE: Drexel University Drexel Central — Registration
+URL: https://drexel.edu/drexelcentral/registration/courses/
+DOCUMENT: Drexel_Registration_Guide.txt
+
+==========================================================================
+DREXEL UNIVERSITY — COURSE REGISTRATION GUIDE
+==========================================================================
+
+OVERVIEW
+Course registration is an important student responsibility. Planning your schedule,
+ensuring you remain on progress towards completing your degree, and selecting courses
+that will aid in your success requires careful planning and attention to detail.
+
+==========================================================================
+STEP 1: EVALUATE YOUR CURRENT STATUS
+==========================================================================
+- DegreeWorks: Review your plan of study and progress to determine remaining requirements.
+  Access via DrexelOne > Academics tab.
+- Term Master Schedule (TMS): Determine what courses will be available.
+  Available at: drexel.edu/webtms
+- Academic Advisor: Meet with your advisor to discuss the upcoming term and progress.
+
+==========================================================================
+STEP 2: PREPARE TO REGISTER
+==========================================================================
+- Review Academic Policies affecting registration.
+- Check Academic Calendars for important dates and deadlines.
+- Review your Registration Time Ticket — the specific date/time you can register.
+- Use Schedule Ahead (available from Week 4 through Week 1 of upcoming term) to:
+  - Create up to 10 mock/sample schedules in advance
+  - Note: Creating a sample schedule does NOT guarantee a seat in selected courses
+
+==========================================================================
+STEP 3: REGISTER FOR COURSES
+==========================================================================
+- Agree to Student Financial Obligation (SFO) Statement via DrexelOne before registering.
+- Log in to DrexelOne > Academics tab > Register for Course
+- Select "Check Course Availability," choose term, and search for courses.
+- Review course restrictions before registering.
+
+COURSE INSTRUCTIONAL METHODS:
+- Face-to-Face (FTF): In-person at established times and campus space
+- Remote Synchronous (SYN): Live remote sessions at established times
+- Remote Asynchronous (ASY): Coursework completed remotely on own schedule
+- Hybrid (HYB): Mix of in-person and remote sessions
+- Online (ONL): Entirely online, typically for Drexel University Online programs
+
+==========================================================================
+STEP 4: CONFIRM YOUR ENROLLMENT
+==========================================================================
+- Confirm enrollment each term to verify your course registration is finalized.
+
+==========================================================================
+STEP 5: MID-TERM ADJUSTMENTS
+==========================================================================
+- Course Withdrawal: Available from Week 2 to Week 7 of a quarter.
+- Leave of Absence: Available for students with extenuating circumstances.
+
+==========================================================================
+ADDING AND DROPPING COURSES
+==========================================================================
+SOURCE: https://drexel.edu/drexelcentral/registration/courses/adding-dropping
+
+The add/drop period is the first week of the term.
+
+Key Add/Drop Facts:
+- Last day to Add/Drop with Academic Advisor assistance: Friday of Week 1
+- Last day to Add/Drop via DrexelOne (online self-service): Sunday of Week 1 by 11:59 p.m.
+- After the add/drop deadline, changes require academic advisor involvement.
+
+SCHEDULE AHEAD FEATURE:
+- Available from Week 4 of prior term through Week 1 of the upcoming term.
+- Create up to 10 sample schedules before your time ticket opens.
+- Having registration holds will NOT prevent use of Schedule Ahead, but WILL prevent
+  actual registration until holds are resolved.
+- Schedule Ahead does not check for course restrictions — verify separately on TMS.
+
+AUDITING A COURSE:
+- Provides opportunity to attend a course for no credit; grade shown as "AUD."
+- AUD does NOT affect GPA.
+- Audited credits DO count toward maximum term credit hours.
+- Cannot fulfill major requirements using audit option.
+- Must get approval from instructor AND academic advisor before add/drop period closes.
+- Financial aid is NOT available for audited courses.
+
+==========================================================================
+REGISTRATION TIME TICKETS — 2025–2026 ACADEMIC YEAR
+==========================================================================
+SOURCE: https://drexel.edu/drexelcentral/registration/courses/time-tickets
+
+Time tickets indicate the specific day/time when you can register for classes via DrexelOne.
+Your ticket is based on your student classification (credits earned).
+
+HOW TO VIEW YOUR TIME TICKET:
+1. Log in to DrexelOne
+2. Select Academics tab
+3. Select "Review Your Registration Information" under "Prepare to Register"
+4. Select appropriate term and click Continue
+
+SPECIAL TIME TICKETS: Athletes, ROTC, performing arts scholarship recipients,
+veterans, veteran aid recipients, and Pennoni Honors College students receive priority.
+
+QUARTER SCHEDULE TIME TICKETS — 2025–2026:
+
+Student Type                                          | Fall 2025    | Winter 2026  | Spring 2026  | Summer 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Athletes, Graduating Students, Pennoni Honors,        | July 28      | Oct 27       | Feb 9        | May 4
+Performing Arts, ROTC, Veterans, BS/MD               | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Matriculated Graduate Students                        | July 29      | Oct 28       | Feb 10       | May 5
+                                                      | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Non-matriculated Graduate Students                    | July 30      | Oct 29       | Feb 11       | May 6
+                                                      | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Seniors & Non-matriculated Undergrads                 | July 31      | Oct 30       | Feb 12       | May 7
+                                                      | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Juniors                                               | Aug 1        | Oct 31       | Feb 13       | May 8
+                                                      | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Pre-Juniors                                           | Aug 4        | Nov 3        | Feb 16       | May 11
+                                                      | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Sophomores                                            | Aug 6        | Nov 5        | Feb 18       | May 13
+                                                      | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+First-Year Students (post-first term)                 | Aug 11       | Nov 10–11    | Feb 23–24    | May 18
+                                                      | 2025         | 2025         | 2026         | 2026
+------------------------------------------------------|--------------|--------------|--------------|-------------
+Students on Co-op (admitted prior to Fall 2025–2026)  | Aug 18       | Nov 17       | Mar 2        | May 25
+                                                      | 2025         | 2025         | 2026         | 2026
+
+NOTES:
+- Incoming first-year students are registered by academic advisors for their first term.
+- Incoming transfer students must contact their academic advisor to register.
+- Time tickets generally become available to view in Week 4 of the prior term.
+
+==========================================================================
+CONTACT
+==========================================================================
+Drexel Central
+Main Building, Suite 106
+3141 Chestnut Street, Philadelphia, PA 19104
+Hours: Monday–Friday, 9 a.m.–5 p.m.

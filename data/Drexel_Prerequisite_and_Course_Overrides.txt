@@ -1,0 +1,40 @@
+SOURCE: Drexel University Drexel Central — Registration
+URL: https://drexel.edu/drexelcentral/registration/
+DOCUMENT: Drexel_Prerequisite_and_Course_Overrides.txt
+
+==========================================================================
+PREREQUISITES, RESTRICTIONS, AND OVERRIDES
+==========================================================================
+
+COURSE PREREQUISITES
+Courses may require prior coursework, minimum GPA, class standing, or major/college
+restrictions. Prerequisites are listed in the Term Master Schedule (TMS) and course catalog.
+
+REGISTRATION ERRORS — COMMON TYPES
+- Prerequisite/Test Score Error: Student does not meet published prerequisite
+- Class Restriction: Course limited by college, major, level, or permission
+- Closed Section: No seats available
+- Time Conflict: Overlapping meeting times
+- Credit Limit: Exceeds maximum credits allowed for the term
+- Hold on Record: Administrative hold blocks registration
+
+PREREQUISITE OVERRIDE
+If a student has equivalent preparation, they may request a prerequisite override from:
+1. The academic department offering the course, OR
+2. Their academic advisor (who coordinates with the department)
+
+Overrides are not automatic; departments evaluate each request.
+
+CLOSED SECTION OVERRIDE
+- Last day to secure a Closed Section Override is published on the academic calendar
+  (typically Friday of Week 1 for Full Term / Part of Term A)
+- Requires department permission and advisor processing
+
+PERMISSION / SPECIAL AUTHORIZATION
+Some courses require department permission numbers entered during registration in DrexelOne.
+
+VERIFY BEFORE REGISTERING
+- Check TMS (drexel.edu/webtms) for restrictions and seat availability
+- Schedule Ahead does NOT enforce all restrictions — verify separately
+
+==========================================================================

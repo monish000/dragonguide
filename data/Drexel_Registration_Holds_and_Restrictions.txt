@@ -1,0 +1,107 @@
+SOURCE: Drexel University Drexel Central — Registration Holds and Restrictions
+URL: https://drexel.edu/drexelcentral/registration/courses/restrictions
+DOCUMENT: Drexel_Registration_Holds_and_Restrictions.txt
+
+==========================================================================
+DREXEL UNIVERSITY — REGISTRATION HOLDS AND RESTRICTIONS
+==========================================================================
+
+OVERVIEW
+If you are having trouble registering for classes, it may be because of a course
+restriction or a hold on your account.
+
+==========================================================================
+REGISTRATION HOLDS
+==========================================================================
+Holds are placed on a student's account for different reasons and by different
+University offices. Some holds will PREVENT future term registration until resolved.
+
+HOW TO REVIEW HOLDS:
+1. Log in to DrexelOne
+2. Any hold on your account is listed in the "Academic Alerts" channel (top left)
+3. The hold information will list a contact person to resolve the hold
+
+TYPES OF HOLDS:
+- Financial Hold: Must be resolved before the last day listed on the Academic Calendar
+- Academic Hold: Contact your academic advisor
+- Administrative Hold: Contact the specific office listed in the hold notification
+
+==========================================================================
+REGISTRATION RESTRICTIONS (ERROR MESSAGES)
+==========================================================================
+When you enter a CRN (Course Reference Number), an error message will appear
+if there is a restriction preventing registration.
+
+RESTRICTION TYPES:
+- College Restriction: Only students from a specific college (e.g., College of Business only)
+- Degree Restriction: Only students pursuing a specific degree (e.g., PhD only)
+- Program Restriction: Only students in a specific program
+- Program Level Restriction: Only undergraduate OR graduate students
+- Major Restriction: Only students with a specific major
+- Class Restriction: Only students of a certain class standing (e.g., Seniors only)
+- Campus Restriction: Only students from a specific campus (e.g., Online students only)
+- Student Attribute Restriction: Only specific students (e.g., Learning Community students only)
+
+==========================================================================
+COMMON REGISTRATION ERROR MESSAGES
+==========================================================================
+
+ERROR: CLOSED SECTION
+- Section is full (maximum seating reached).
+- Supersedes all other errors — other restrictions may be hidden behind this.
+- Next steps: Add yourself to the waitlist, select another open section, or choose a
+  different course. Check for other restrictions before joining waitlist.
+
+ERROR: PERMISSION REQUIRED
+- Instructor, department, dean, advisor, or program director permission needed.
+- Statuses requiring permission: Department, Dean, Advisor, Honor's Program Director,
+  Instructor, Instructor & College, Program Director.
+- Next steps: Contact the relevant person/office to obtain permission.
+
+ERROR: PREREQUISITE/TEST SCORE
+- A specific course (or test score) must be completed before you can register.
+- Next steps: Review the prerequisite list. Contact your academic advisor to discuss
+  a prerequisite override if you believe you have equivalent preparation.
+
+ERROR: TIME CONFLICT
+- This course overlaps in time with a course already registered.
+- Next steps: Select a different section that doesn't conflict.
+
+ERROR: CO-REQUISITE
+- Another course must be taken during the SAME term as this course.
+- Next steps: Register for both courses simultaneously.
+
+ERROR: LINK ERROR
+- Course has multiple parts (lecture + lab and/or recitation) that must be taken together.
+- Each part has a unique CRN but they form one complete course.
+- Link identifiers: Lectures use L1/L2/L3, Labs use Z1/Z2/Z3, Recitations use R1/R2/R3.
+- To fix: Register for parts with MATCHING link identifiers (e.g., L1 with Z1 and R1).
+
+ERROR: MAX HOURS EXCEEDED
+- Undergraduate students: Maximum 20 credits per term. Credits above 20 are billed per credit.
+- Graduate students: Maximum 12 credit hours per term. Exceeding requires advisor and
+  Graduate College approval.
+- Next steps: Drop a course or consult your advisor to request an exception.
+
+ERROR: REPEAT COURSES
+- Non-repeatable courses require advisor assistance to register for again.
+- See University Repeat Policy for more information.
+
+==========================================================================
+CLOSED SECTION OVERRIDES
+==========================================================================
+- A "Closed Section Override" allows you to register for a section that is officially full.
+- You must secure the override by Friday of Week 1 of each quarter.
+  - Fall 2025:   By Friday, September 26, 2025
+  - Winter 2026: By Friday, January 9, 2026
+  - Spring 2026: By Friday, April 3, 2026
+  - Summer 2026: By Friday, June 26, 2026
+- Contact the department or instructor to request the override.
+
+==========================================================================
+CONTACT
+==========================================================================
+Drexel Central
+Main Building, Suite 106
+3141 Chestnut Street, Philadelphia, PA 19104
+Hours: Monday–Friday, 9 a.m.–5 p.m.

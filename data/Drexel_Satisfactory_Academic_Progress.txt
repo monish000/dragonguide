@@ -1,0 +1,117 @@
+SOURCE: Drexel University Drexel Central — Satisfactory Academic Progress (SAP)
+URL: https://drexel.edu/drexelcentral/finaid/eligibility/terms-and-conditions/satisfactory-academic-progress
+DOCUMENT: Drexel_Satisfactory_Academic_Progress.txt
+
+==========================================================================
+DREXEL UNIVERSITY — SATISFACTORY ACADEMIC PROGRESS (SAP) POLICY
+==========================================================================
+
+OVERVIEW
+The Department of Education requires schools to monitor academic progress for
+students to remain eligible for federal financial aid.
+
+Academic progress is checked at the END OF EACH ACADEMIC YEAR:
+- Quarter programs: Measured from September to September
+- Semester programs: Measured from August to August
+
+Failure to meet minimum completion percentage OR minimum GPA will result in
+CANCELLATION of all federal financial aid for the upcoming year.
+
+==========================================================================
+FEDERAL AID AFFECTED BY FAILING SAP
+==========================================================================
+- Federal Pell Grant
+- Federal Supplemental Educational Opportunity Grant (FSEOG)
+- Federal Work-Study
+- Federal Direct PLUS Loans (Parent and Graduate)
+- Federal Direct Subsidized and Unsubsidized Loans
+- PA State Grant (follows separate guidelines)
+
+NOTE: SAP does NOT impact Drexel scholarships or grants (these have their own requirements).
+Private loan holders should contact their lender about academic requirements.
+
+==========================================================================
+SAP REQUIREMENTS — GPA
+==========================================================================
+Student Level          | Minimum Cumulative GPA Required
+-----------------------|----------------------------------
+Undergraduate          | 2.0
+Graduate               | 3.0
+Law (JD) Students      | 2.2
+
+Note: GPA requirements for merit scholarships may DIFFER from SAP GPA requirements.
+
+==========================================================================
+SAP REQUIREMENTS — COMPLETION PERCENTAGE
+==========================================================================
+Students must successfully complete a MINIMUM OF 67% of all courses attempted
+since the start of enrollment at their current academic level.
+
+Formula: Total Hours EARNED ÷ Total Hours ATTEMPTED
+
+Grades that count as ATTEMPTED BUT NOT COMPLETED (hurt your completion rate):
+- Incomplete (INC)
+- No Grade Reported (NGR)
+- Withdraw (W)
+- F (or Fail in pass/fail course)
+- No Credit (in credit/no credit course)
+
+Grades that count as both ATTEMPTED AND COMPLETED:
+- Transfer credits (if applied toward degree)
+- Advanced Placement (AP) credits
+
+NOT counted (neither attempted nor completed):
+- Co-op placements
+
+==========================================================================
+SAP REQUIREMENTS — 150% TIME TO DEGREE
+==========================================================================
+You may NOT receive federal aid if you enroll beyond 150% of the published program length.
+
+Example: 4-year undergraduate program → you have a maximum of 6 years to complete it.
+After 6 years without a degree, you become ineligible for federal financial aid.
+
+==========================================================================
+HOW TO VIEW YOUR SAP STATUS
+==========================================================================
+1. Log in to DrexelOne
+2. Select "Billing + Financial Aid" tab
+3. In "Outstanding Financial Aid Requirements" channel, select
+   "View Your Financial Aid Requirements History in BannerWeb"
+4. Choose appropriate academic year and select "Submit"
+5. Select the "Academic Progress" tab
+6. SAP status appears in the "Satisfactory Academic Progress" section
+
+Note: SAP information will NOT appear until all final grades for your first year
+have been calculated.
+
+==========================================================================
+SAP APPEAL PROCESS
+==========================================================================
+If you are failing SAP due to extenuating circumstances (e.g., serious illness,
+death of a parent), you may file an appeal.
+
+APPEAL DEADLINE: Up to two weeks from the date you are notified of SAP failure.
+
+TO FILE AN SAP APPEAL:
+1. Complete the SAP Appeal Form (PDF) — available on DrexelOne/Drexel Central website
+2. Attach supporting documentation for the circumstances described
+3. Do NOT include medical documentation (diagnosis, test results) unless specifically requested
+4. Submit to Drexel Central
+
+IF APPROVED:
+- You will be placed on financial aid PROBATION status
+- You must complete an SAP Academic Plan (PDF) in coordination with your academic advisor
+- The SAP Academic Plan must be returned to Drexel Central for financial aid to disburse
+
+IF DENIED:
+- You are ineligible for federal financial aid
+- Consider applying for private loans or alternative funding
+
+==========================================================================
+CONTACT
+==========================================================================
+Drexel Central
+Main Building, Suite 106
+3141 Chestnut Street, Philadelphia, PA 19104
+Hours: Monday–Friday, 9 a.m.–5 p.m.

@@ -1,0 +1,190 @@
+SOURCE: Drexel University Drexel Central — Grades and GPA / Academic Standing
+URL: https://drexel.edu/drexelcentral/records/grades/gpa
+URL: https://drexel.edu/drexelcentral/records/grades/academic-standing
+DOCUMENT: Drexel_Grading_Scale_and_Academic_Standing.txt
+
+==========================================================================
+DREXEL UNIVERSITY — GRADING SCALE AND ACADEMIC STANDING POLICY
+==========================================================================
+
+==========================================================================
+DREXEL GRADING SCALE
+==========================================================================
+Grade | Grade Points | Description
+------|--------------|----------------------------------------------------
+A+    | 4.0          | Exceptional
+A     | 4.0          | Excellent
+A-    | 3.67         |
+B+    | 3.33         |
+B     | 3.0          | Good
+B-    | 2.67         |
+C+    | 2.33         |
+C     | 2.0          | Satisfactory
+C-    | 1.67         |
+D+    | 1.33         |
+D     | 1.0          | Passing (Undergraduate)
+F     | 0.0          | Failing
+AU    | 0.0          | Audit (no grade, no GPA impact)
+INC   | 0.0          | Incomplete (becomes I/F if not resolved)
+W     | 0.0          | Withdrawal (no GPA impact)
+CR    | 0.0          | Credit (Pass in Credit/No Credit course)
+NCR   | 0.0          | No Credit (Fail in Credit/No Credit course)
+
+==========================================================================
+HOW TO VIEW YOUR GRADES
+==========================================================================
+1. Log in to DrexelOne
+2. Select the "Academics" tab
+3. Click "Grades" in the "Grades, Transcripts and Records" channel
+4. Select "Final Grades"
+5. Select the term to view
+
+NOTE: If there is a FINANCIAL HOLD on your account, you will NOT be able
+to view your final grades until the hold is resolved.
+
+==========================================================================
+GRADE POINT AVERAGE (GPA) CALCULATION
+==========================================================================
+- Drexel computes a single, cumulative GPA for undergraduate and graduate work.
+- GPA is calculated to two decimal points and is NOT rounded up.
+- Only credits earned from the FIRST TIME a course is completed with a passing
+  grade are included in earned/passed hours.
+- GPA Formula: Sum of (Grade Points × Credits) ÷ Total Credits Attempted
+
+==========================================================================
+INCOMPLETE GRADE (INC) POLICY
+==========================================================================
+- An "INC" (Incomplete) may be assigned when work is not completed and the
+  instructor deems the student CAN complete it within an agreed-upon time.
+- A WRITTEN AGREEMENT (Incomplete Contract) must be created between student
+  and instructor, specifying expectations and the completion deadline.
+- The contract is processed electronically through DrexelOne.
+- If the grade is NOT submitted by the agreed-upon completion date, the INC
+  becomes an "I/F" on the record — this is treated as a FAILING GRADE and
+  is calculated into the GPA as a permanent grade.
+
+GRADUATE STUDENTS — INCOMPLETE GRADE SPECIFICS:
+- Incomplete grades may NOT exceed two subsequent terms.
+- Extensions require instructor approval AND Office of Graduate Studies consent.
+- If a final grade is not submitted by the established deadline, the INC
+  becomes an I/F (failing grade).
+
+==========================================================================
+GRADE NOT SUBMITTED (GNS) POLICY
+==========================================================================
+- GNS is recorded when an instructor does NOT submit a grade by the deadline.
+- GNS is a temporary indicator, NOT a permanent grade.
+- If unresolved by the last day of classes of the NEXT term, it becomes "N/F."
+- N/F is calculated as a FAILURE in GPA and is a permanent grade.
+
+==========================================================================
+FINAL GRADE SUBMISSION DEADLINES (FACULTY)
+==========================================================================
+- Classes with fewer than 50 students: Grades due 48 hours after final exam
+- Classes with 50 or more students: Grades due 72 hours after final exam
+- All grades for a term are due by 12 p.m. on the Wednesday after the last
+  day of Final Exam week.
+
+Final grades are recorded in student academic history starting in Week 10 of
+the academic term.
+
+==========================================================================
+GRADE CHANGE POLICY
+==========================================================================
+- Students have ONE YEAR from the time a final grade is assigned to contest it.
+- To contest a grade: First speak directly with the course instructor.
+- Students have ONE YEAR from the time of separation from a program to contest
+  other actions or changes to their academic record/transcript.
+  (Separation includes graduation, non-enrollment, withdrawal, or leave of absence.)
+- Approved leaves of absence (medical, military) are handled on a case-by-case basis.
+
+==========================================================================
+ACADEMIC STANDING — THREE STATUS LEVELS
+==========================================================================
+Academic standing is determined at the CLOSE OF EACH TERM and takes effect
+on the FIRST DAY of the subsequent term of study.
+
+1. GOOD STANDING
+   - Meeting all GPA and completion rate requirements.
+   - Full enrollment rights and privileges.
+
+2. ACADEMIC PROBATION
+   - Placed on probation when not meeting minimum academic requirements.
+   - Students must meet with their academic advisor to develop an improvement plan.
+   - Continued non-performance may result in dismissal.
+
+3. DISMISSED
+   - Removal from the University for failure to meet academic requirements.
+
+For detailed standards, see:
+- Undergraduate Academic Standing and Probation Policy (Provost's website)
+- Academic Standing — Graduate Students Policy (Provost's website)
+
+==========================================================================
+ACADEMIC DISMISSAL APPEALS — CONTACT BY COLLEGE
+==========================================================================
+College of Computing & Informatics:
+  CCI Advising, 3675 Market Street, 10th Floor, Philadelphia, PA 19104
+
+College of Engineering:
+  Emily Bogunovich, University Crossings, Room 155
+  ekm42@drexel.edu
+
+LeBow College of Business:
+  Jackie McCurdy, 3220 Market Street, Philadelphia, PA 19104
+
+Dornsife School of Public Health:
+  Contact academic advisor (connected to DSPH Academic Standing Committee)
+
+Westphal College of Media Arts & Design:
+  URBN Center, Room 103, 3501 Market Street, Philadelphia, PA 19104
+
+Pennoni Honors College:
+  Kevin Egan, PhD, Bentley Hall Suite 111, 3301 Arch Street
+
+College of Arts and Sciences:
+  Tara Liss-Mariño, PhD, 3250 Market Street
+  tjl328@drexel.edu
+
+==========================================================================
+DEAN'S LIST POLICY
+==========================================================================
+- Based on academic standing at the close of each quarter.
+- Requirements specified in the Dean's List Policy (Provost's office).
+
+==========================================================================
+LATIN HONORS (UNDERGRADUATE GRADUATION)
+==========================================================================
+Latin Honors are awarded based on cumulative GPA at graduation.
+- Summa Cum Laude:   Highest academic distinction
+- Magna Cum Laude:   High academic distinction
+- Cum Laude:         Academic distinction
+(Specific GPA thresholds are defined in the Latin Honors Policy, Provost's office.)
+
+==========================================================================
+COURSE REPEAT POLICY — UNDERGRADUATE
+==========================================================================
+- Students may repeat courses in which they earned a grade of C- or lower.
+- Only the HIGHEST GRADE is factored into GPA calculations.
+- Students may enroll in a specific course up to THREE times (two lowest grades
+  excluded from GPA).
+- As of Fall 2024–2025: NO CAP on the number of courses that can be repeated
+  using the GPA adjustment option (previously limited to 10 courses).
+
+COURSE REPEAT POLICY — GRADUATE STUDENTS:
+- Graduate students may repeat up to TWO courses total.
+- Petition for GPA adjustment to count only the highest grade for courses
+  in which they received a B- or lower.
+- Limited to ONE petition per course.
+
+==========================================================================
+CONTACT
+==========================================================================
+Drexel Central
+Main Building, Suite 106
+3141 Chestnut Street, Philadelphia, PA 19104
+Hours: Monday–Friday, 9 a.m.–5 p.m.
+
+University Registrar
+University Crossings, Suite 100 | 3175 JFK Blvd, Philadelphia, PA 19104
+Phone: 215.895.1050
